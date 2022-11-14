@@ -17,7 +17,6 @@ public class Calculator {
 	}
 	public double getNum2() {
 		return num2;
-			
-		
+				
 	}
 }
